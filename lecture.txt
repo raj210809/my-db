@@ -1,0 +1,14 @@
+explaining server
+three way handshake to initiate tcp connection
+what is rest api
+what is node
+how to initiate the node project
+what is express
+how to write code
+what is middlewares?
+what is authentication?
+how to do authentication using middlewares
+what is dataabse?
+good practices like diretly don't send the post body for database as it can lead to sql injection
+nosql and sql
+how to interact with database? //orms and sdk
